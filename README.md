@@ -1,2 +1,1 @@
-# git-github-fadhil-19-
-Assignment Git &amp; Github Fadhil Muhammad Daffa Team Akusara
+fadhil muhammad daffa team akusara(19) MAN 2 Kota Madiun
